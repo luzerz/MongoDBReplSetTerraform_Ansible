@@ -1,0 +1,4 @@
+[mongodb]
+server1 ansible_ssh_host=34.87.134.172
+server2 ansible_ssh_host=34.142.158.187
+server3 ansible_ssh_host=35.187.255.177
